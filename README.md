@@ -34,6 +34,5 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitiii&show_icons=true&locale=en&layout=compact" alt="amitiii" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitiii&show_icons=true&locale=en" alt="amitiii" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.her
+
