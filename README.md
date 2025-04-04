@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Amiti Sharma</h1>
-<h3 align="center">A passionate frontend developer and data science enthusiast from India</h3>
+<h3 align="center">A passionate machine learning engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69220037/203141922-dc941a18-63f5-4c8a-9013-86ce406f471d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitiii&label=Profile%20views&color=0e75b6&style=flat" alt="amitiii" /> </p>
 
