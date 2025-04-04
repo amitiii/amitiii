@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **data science and machine learning**
 
-- 💬 Ask me about **Python,R,Machine Learning,Data mining,Data visualization,tableau,SQL,HTML,CSS, JavaScript,API,Postman,Git,MySQL,Windows,Azure**
+- 💬 Ask me about ** Languages: Python, C/C+
+Developer Tools: Git, Jupyter, Github, VS Code
+Technologies/Frameworks: Scikit-learn, Tableau, Matplotlib, Plotly, Numpy, Pandas, Streamlit, Linux**
 
 - 📫 How to reach me **amiti94799@gmail.com**
 
