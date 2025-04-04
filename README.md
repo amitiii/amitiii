@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **data science and machine learning**
 
-- 💬 Ask me about ** Languages: Python, C/C+
-Developer Tools: Git, Jupyter, Github, VS Code
-Technologies/Frameworks: Scikit-learn, Tableau, Matplotlib, Plotly, Numpy, Pandas, Streamlit, Linux**
+- 💬 Ask me about ** Languages: Python, C/C+ 
+ Git, Jupyter, Github, VS Code
+ Scikit-learn, Tableau, Matplotlib, Plotly, Numpy, Pandas, Streamlit, Linux**
 
 - 📫 How to reach me **amiti94799@gmail.com**
 
